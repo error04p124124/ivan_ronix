@@ -1,4 +1,4 @@
-Django>=5.0,<5.1
+Django<5.1,>=5.0
 psycopg2-binary>=2.9.9
 Pillow>=10.0.0
 WeasyPrint>=60.0
@@ -10,9 +10,5 @@ python-decouple>=3.8
 reportlab>=4.0.0
 docx
 openpyxl
-exceptions
 gunicorn
-
 whitenoise
-
-
