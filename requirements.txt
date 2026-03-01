@@ -8,9 +8,11 @@ django-tables2>=2.7.0
 django-filter>=24.0
 python-decouple>=3.8
 reportlab>=4.0.0
+docx
+openpyxl
+exceptions
 gunicorn
 
 whitenoise
-docx
-openpyxl
+
 
